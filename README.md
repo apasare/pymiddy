@@ -1,6 +1,12 @@
-## PyMiddy
+# PyMiddy
 
 Heavily inspired from middyjs.
+
+### Installation
+
+```bash
+pip install pymiddy
+```
 
 ### Quick start
 
